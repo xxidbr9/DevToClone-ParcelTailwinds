@@ -1,7 +1,7 @@
 {
     "name": "andhan_dev_to",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "index.html",
     "license": "MIT",
     "scripts": {
         "dev": "parcel -p 3000 ./public/index.html",
