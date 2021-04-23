@@ -1,0 +1,16 @@
+{
+    "name": "andhan_dev_to",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "parcel -p 3000 ./public/index.html"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.2.5",
+        "parcel": "^2.0.0-beta.2",
+        "postcss": "^8.1.0",
+        "postcss-modules": "^4.0.0",
+        "tailwindcss": "^2.1.1"
+    }
+}
